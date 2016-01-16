@@ -1,7 +1,7 @@
 package edu.hust.observer;
 
 /**
- * 2，具体的主题（具体的被观察者）
+ * 2，具体的主体（具体的被观察者）
  * 
  * @author liangjian
  *
